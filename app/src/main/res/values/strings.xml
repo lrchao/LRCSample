@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LRCSample</string>
+
+    <string-array name="main_list">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
 </resources>
